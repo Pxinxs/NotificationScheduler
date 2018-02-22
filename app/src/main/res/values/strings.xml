@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Scheduler</string>
+    <string name="add">Add</string>
+    <string name="notification_was_added">Notification was added</string>
+    <string name="date">Date</string>
+    <string name="title">Title</string>
+    <string name="clear_notifications">Clear notifications</string>
+    <string name="notification">Notification</string>
+    <string name="time">Time</string>
+    <string name="add_notification">Add notification</string>
+    <string name="error_read_notifications_form_db">Error read notifications</string>
+    <string name="error_save_notification">Error save notification</string>
+</resources>
