@@ -35,7 +35,7 @@ public class DatabaseTest {
 
     @Test
     public void writeNotificationAndRead() throws Exception {
-        Notification notification = new Notification("2018-02-22 12:00", "test note", 1);
+        Notification notification = new Notification("2018-02-22", "12:00", "test note", 1);
         notificationDao.insert(notification);
 
         notificationDao.getNotifications()
